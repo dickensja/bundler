@@ -3,7 +3,7 @@ lib = File.expand_path('../lib', __FILE__)
 $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 
 Gem::Specification.new do |spec|
-  spec.name          = 'capistrano-bundler'
+  spec.name          = 'eme-capistrano-bundler'
   spec.version       = '1.1.4'
   spec.authors       = ['Tom Clements', 'Lee Hambley', 'Kir Shatrov']
   spec.email         = ['seenmyfate@gmail.com', 'lee.hambley@gmail.com', 'shatrov@me.com']
